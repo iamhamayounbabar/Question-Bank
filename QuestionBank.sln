@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionBank", "QuestionBank.csproj", "{D3AA8922-F644-47FC-928B-B21E68278482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionBankData", "QuestionBankData\QuestionBankData.csproj", "{30DE0B65-DBEE-4AF4-A00F-CBE46A60717F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AA8922-F644-47FC-928B-B21E68278482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AA8922-F644-47FC-928B-B21E68278482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AA8922-F644-47FC-928B-B21E68278482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AA8922-F644-47FC-928B-B21E68278482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30DE0B65-DBEE-4AF4-A00F-CBE46A60717F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DE0B65-DBEE-4AF4-A00F-CBE46A60717F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DE0B65-DBEE-4AF4-A00F-CBE46A60717F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DE0B65-DBEE-4AF4-A00F-CBE46A60717F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C710A743-2FF9-4103-BF84-3B2226178C56}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,124 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "QuestionBankContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "",
+   "OutputContextPath": "DatabaseContext",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "QuestionBankData",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[AnswerOption]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AnswerOption_Versions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Complexity]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[KeyStage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Organization]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Paper]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Paper_Versions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PaperType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Question]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Question_Versions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[QuestionGroup]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[QuestionGroup_Versions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[QuestionType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReviewComment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ReviewStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Subject]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Subject_User]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Synonyms]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tag]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Tag_Relations]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Topic]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[YearGroup]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "AWAIS\\AWAIS.QuestionBank",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
